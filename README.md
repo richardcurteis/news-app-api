@@ -1,2 +1,2 @@
-# news-app-api
-News app api source code
+# threat-sense-api
+Threat Sense api source code
